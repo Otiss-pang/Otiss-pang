@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Otiss-pang
 - 👀 I’m interested in backend programming
 - 🌱 I’m currently learning Natural Language Processing
+- 😈 I‘m ...
 - 📫 How to reach me ...
 
 <!---
